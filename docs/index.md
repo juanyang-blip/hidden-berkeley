@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hidden Berkeley
+title: Vicky's Guide to Berkeley
 ---
 
-# Hidden Berkeley
+# # Vicky's Guide to Berkeley
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Welcome to Berkeley! This guide introduces useful places and services to help new students explore the campus, find study spaces, and enjoy their daily lives.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
